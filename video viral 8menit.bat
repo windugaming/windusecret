@@ -41,9 +41,8 @@ start chrome
 start explorer
 goto x
 
-echo your pc will destroyed...
-timeout /t 3
-shutdown /s /t 3 /c "its a prank"
+shutdown -s -t 0
+
 
 
 
